@@ -1,3 +1,1 @@
-- [x] :eyeglasses:
-- [x] :violin:
-- [x] :red_circle:
+- [x] :eyeglasses: :red_circle:
