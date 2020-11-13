@@ -1,4 +1,4 @@
-## Hello there! Welcome to my Github... :boy:
+## Hello there! Welcome to my Github... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
@@ -15,14 +15,14 @@ Here's an overview of some of the projects I have done!
 * :computer:[Data Structures](https://github.com/alvanli/Cpp-Data-Structures) - CS Course 
 
 ### Somewhere in between
-* [Retinopathy](https://github.com/alvanli/Retinopathy_Public) - Diagnose eye conditions with over 90% accuracy with CNNs
-* [Cicatrix](https://github.com/alvanli/cicatrix) - Using OpenCV to segment and measure wound sizes
-* [Snap](https://github.com/alvanli/Matrix-Calculations-Snap) - Using OpenCV to solve matrices
-* [Bounding Box](https://github.com/alvanli/bounding_box) - Create bounding boxes to facilitate YOLO training
+* :eyes:[Retinopathy](https://github.com/alvanli/Retinopathy_Public) - Diagnose eye conditions with over 90% accuracy with CNNs
+* :drop_of_blood:[Cicatrix](https://github.com/alvanli/cicatrix) - Using OpenCV to segment and measure wound sizes
+* :heavy_multiplication_x:[Snap](https://github.com/alvanli/Matrix-Calculations-Snap) - Using OpenCV to solve matrices
+* :card_file_box:[Bounding Box](https://github.com/alvanli/bounding_box) - Create bounding boxes to facilitate YOLO training
 
 ### Web Development
-* [Chatty](https://github.com/alvanli/Chatty_PUBLIC) - Chrome extension AI personal assistant, helps schedule tasks, jot notes and more!
-* [Flock](https://devpost.com/software/flock-mhzpfd) - Enhance lockdown efficiency with this video chatting platform which uses the Pomodoro technique
-* [RxLog](https://github.com/alvanli/RxLog) - Pharmacy Management System, built using MERN
-* [Personal Website](alvanli.github.io) - Built using jQuery, HTML+CSS+JS, Bootstrap
+* :space_invader:[Chatty](https://github.com/alvanli/Chatty_PUBLIC) - Chrome extension AI personal assistant, helps schedule tasks, jot notes and more!
+* :clapper:[Flock](https://devpost.com/software/flock-mhzpfd) - Enhance lockdown efficiency with this video chatting platform which uses the Pomodoro technique
+* :pill:[RxLog](https://github.com/alvanli/RxLog) - Pharmacy Management System, built using MERN
+* :boy:[Personal Website](alvanli.github.io) - Built using jQuery, HTML+CSS+JS, Bootstrap
 
