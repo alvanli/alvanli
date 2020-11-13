@@ -4,10 +4,10 @@ Here's an overview of some of the projects I have done!
 ### Data Science / Machine Learning
 * :orange:[OrangeHypocrite](https://github.com/alvanli/OrangeHypocrite) - [To add description]
 * :speech_balloon:[ChattyV2](https://github.com/alvanli/Chatty-V2) - [To add description]
-* :robot:[Reinforcement Learning](https://github.com/alvanli/ReinforcementLearning) - [To add description]
+* :robot:[Re](https://github.com/alvanli/ReinforcementLearning) - [To add description]
 * :pick:[Fun](https://github.com/alvanli/KaggleFun) - [To add description]
-* :chart:[Stock Analysis](https://github.com/alvanli/Stock_Analysis) - [To add description]
-* :inbox_tray:[Messenger Analysis](https://github.com/alvanli/TxtMsgAnalysis) - [To add description]
+* :chart:[Stock](https://github.com/alvanli/Stock_Analysis) - [To add description]
+* :inbox_tray:[Messenger](https://github.com/alvanli/TxtMsgAnalysis) - [To add description]
 * [457A](https://github.com/alvanli/457a) - Advanced algorithms towards minimization and machine learning
 
 ### C++
