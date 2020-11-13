@@ -26,5 +26,5 @@ Here's an overview of some of the projects I have done!
 * :pill:[RxLog](https://github.com/alvanli/RxLog) - Pharmacy Management System, built using MERN
 * :boy:[Personal Website](alvanli.github.io) - Built using jQuery, HTML+CSS+JS, Bootstrap
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanli&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanli&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanli&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/?username=alvanli&theme=radical" />
