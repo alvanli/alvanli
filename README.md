@@ -2,17 +2,17 @@
 Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
-* [OrangeHypocrite](https://github.com/alvanli/OrangeHypocrite) - [To add description]
-* [ChattyV2](https://github.com/alvanli/Chatty-V2) - [To add description]
-* [Reinforcement Learning](https://github.com/alvanli/ReinforcementLearning) - [To add description]
-* [Fun](https://github.com/alvanli/KaggleFun) - [To add description]
-* [Stock Analysis](https://github.com/alvanli/Stock_Analysis) - [To add description]
-* [Messenger Analysis](https://github.com/alvanli/TxtMsgAnalysis) - [To add description]
+* :orange:[OrangeHypocrite](https://github.com/alvanli/OrangeHypocrite) - [To add description]
+* :speech_balloon:[ChattyV2](https://github.com/alvanli/Chatty-V2) - [To add description]
+* :robot:[Reinforcement Learning](https://github.com/alvanli/ReinforcementLearning) - [To add description]
+* :pick:[Fun](https://github.com/alvanli/KaggleFun) - [To add description]
+* :chart:[Stock Analysis](https://github.com/alvanli/Stock_Analysis) - [To add description]
+* :inbox_tray:[Messenger Analysis](https://github.com/alvanli/TxtMsgAnalysis) - [To add description]
 * [457A](https://github.com/alvanli/457a) - Advanced algorithms towards minimization and machine learning
 
 ### C++
-* [HapticGait](https://github.com/alvanli/hapticgait) - Design team aimed to use accelerometers and haptic motors to correct gait
-* [Data Structures](https://github.com/alvanli/Cpp-Data-Structures) - CS Course 
+* :mechanical_leg:[HapticGait](https://github.com/alvanli/hapticgait) - Design team aimed to use accelerometers and haptic motors to correct gait
+* :computer:[Data Structures](https://github.com/alvanli/Cpp-Data-Structures) - CS Course 
 
 ### Somewhere in between
 * [Retinopathy](https://github.com/alvanli/Retinopathy_Public) - Diagnose eye conditions with over 90% accuracy with CNNs
