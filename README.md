@@ -27,4 +27,4 @@ Here's an overview of some of the projects I have done!
 * :boy:[Personal Website](alvanli.github.io) - Built using jQuery, HTML+CSS+JS, Bootstrap
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanli&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=alvanli&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=alvanli&theme=radical" />
