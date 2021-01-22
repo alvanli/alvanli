@@ -15,6 +15,7 @@ Here's an overview of some of the projects I have done!
 * :computer:[Data Structures](https://github.com/alvanli/Cpp-Data-Structures) - CS Course 
 
 ### Somewhere in between
+* :vibration_mode:[notify](https://devpost.com/software/notify-nc4tkv) - Offline news getter and summarizer
 * :eyes:[Retinopathy](https://github.com/alvanli/Retinopathy_Public) - Diagnose eye conditions with over 90% accuracy with CNNs
 * :drop_of_blood:[Cicatrix](https://github.com/alvanli/cicatrix) - Using OpenCV to segment and measure wound sizes
 * :heavy_multiplication_x:[Snap](https://github.com/alvanli/Matrix-Calculations-Snap) - Using OpenCV to solve matrices
