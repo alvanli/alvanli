@@ -24,8 +24,6 @@ Here's an overview of some of the projects I have done!
 ### Web Development
 * :space_invader:[Chatty](https://github.com/alvanli/Chatty_PUBLIC) - Chrome extension AI personal assistant, helps schedule tasks, jot notes and more!
 * :clapper:[Flock](https://devpost.com/software/flock-mhzpfd) - Enhance lockdown efficiency with this video chatting platform which uses the Pomodoro technique
-* :pill:[RxLog](https://github.com/alvanli/RxLog) - Pharmacy Management System, built using MERN
-* :boy:[Personal Website](alvanli.github.io) - Built using jQuery, HTML+CSS+JS, Bootstrap
 
 ___
 Note: The following is based only on the number of public repositories that I currently have.
