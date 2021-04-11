@@ -25,8 +25,3 @@ Here's an overview of some of the projects I have done!
 * :space_invader:[Chatty](https://github.com/alvanli/Chatty_PUBLIC) - Chrome extension AI personal assistant, helps schedule tasks, jot notes and more!
 * :clapper:[Flock](https://devpost.com/software/flock-mhzpfd) - Enhance lockdown efficiency with this video chatting platform which uses the Pomodoro technique
 
-___
-Note: The following is based only on the number of public repositories that I currently have.
-___
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvanli&theme=radical" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=alvanli&theme=radical" />
