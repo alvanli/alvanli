@@ -2,13 +2,13 @@
 Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
-* :orange:[Untitled](https://github.com/alvanli/OrangeHypocrite) - [To add description]
-* :speech_balloon:[ChattyV2](https://github.com/alvanli/Chatty-V2) - [To add description]
-* :robot:[Untitled](https://github.com/alvanli/ReinforcementLearning) - [To add description]
-* :pick:[Untitled](https://github.com/alvanli/KaggleFun) - [To add description]
-* :chart:[Untitled](https://github.com/alvanli/Stock_Analysis) - [To add description]
-* :inbox_tray:[Untitled](https://github.com/alvanli/TxtMsgAnalysis) - [To add description]
-* [Untitled](https://github.com/alvanli/457a) - Genetic, swarm, ant-colony algorithms and more!
+* :orange:[Orange Hypocrite](https://github.com/alvanli/OrangeHypocrite) - Private due to political climate
+* :speech_balloon:[ChattyV2](https://github.com/alvanli/Chatty-V2) - Chatbots
+* :robot:[Reinforcement Learning](https://github.com/alvanli/ReinforcementLearning) - Currently revamping as DSC Material
+* :pick:[KaggleFun](https://github.com/alvanli/KaggleFun) - Just a couple of Kaggle projects
+* :chart:[Stock Stuff](https://github.com/alvanli/Stock_Analysis) - Private due to lack of maintenance
+* :inbox_tray:[Messenger Analysis](https://github.com/alvanli/TxtMsgAnalysis) - Sentiment analysis based on my own chat data. 
+* [Classic Algorithms](https://github.com/alvanli/457a) - Genetic, swarm, ant-colony algorithms and more!
 
 ### C++
 * :mechanical_leg:[HapticGait](https://github.com/alvanli/hapticgait) - Design team aimed to use accelerometers and haptic motors to correct gait
