@@ -1,4 +1,10 @@
 ## Hello there! Welcome to my Github... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Experience:
+- Perception Core Member/ Manager at WATonomous
+- Transformers Reading Group Lead at UW Data Science Club
+- and [more](alvanli.github.io/Resume) (I update this Resume pretty often, it's exactly letter-sized too so you can print it out. Doesn't work on mobile)
+
 Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
