@@ -3,7 +3,7 @@
 Experience:
 - Perception Core Member/ Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
-- and [more](https://alvanli.github.io/Resume) (Doesn't work on mobile)
+- and [more](https://alvanli.github.io/Resume) <-- UPDATED RESUME 
 
 Here's an overview of some of the projects I have done!
 
