@@ -2,7 +2,7 @@
 
 Experience:
 - ML Dev at Kelvin Zero 
-- Perception Core Member/ Manager at WATonomous
+- Perception Core Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
 - and [more](https://alvanli.github.io/Resume) <-- UPDATED RESUME 
 
