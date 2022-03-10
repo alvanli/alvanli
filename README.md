@@ -5,7 +5,7 @@ Experience:
 - Perception Core Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
 
-Here's an overview of some of the projects I have done!
+<!-- Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
 * :orange:[Orange Hypocrite](https://github.com/alvanli/OrangeHypocrite) - Private due to political climate
@@ -32,3 +32,4 @@ Here's an overview of some of the projects I have done!
 * :space_invader:[Chatty](https://github.com/alvanli/Chatty_PUBLIC) - Chrome extension AI personal assistant, helps schedule tasks, jot notes and more!
 * :clapper:[Flock](https://devpost.com/software/flock-mhzpfd) - Enhance lockdown efficiency with this video chatting platform which uses the Pomodoro technique
 
+ -->
