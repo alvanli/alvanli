@@ -5,6 +5,7 @@ Experience:
 - Perception Core Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
 
+I used to list all of my projects here but most of them are outdated/ no longer reflects my coding ability.
 <!-- Here's an overview of some of the projects I have done!
 
 ### Data Science / Machine Learning
