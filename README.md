@@ -1,9 +1,11 @@
 ## Hello there! Welcome to my Github... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Experience:
-- ML Dev at Kelvin Zero 
+- Data Sci at Clearco
 - Perception Core Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
+- ML Dev at Kelvin Zero 
+
 
 I used to list all of my projects here but most of them are outdated/ no longer reflects my coding ability.
 <!-- Here's an overview of some of the projects I have done!
