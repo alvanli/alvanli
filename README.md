@@ -1,4 +1,4 @@
-## Hello there! Welcome to my Github... <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there! Welcome to my Github... 
 
 Experience:
 - Data Sci at Clearco
