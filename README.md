@@ -4,7 +4,7 @@ Experience:
 - Chatbots at Nuance + Microsoft
 - Data Sci at Clearco
 - Perception Core Manager at WATonomous
-- Transformers Reading Group Lead at UW Data Science Club
+- Co-Prez at UW Data Science Club (I still do transformers reading groups!)
 - ML Dev at Kelvin Zero 
 
 
