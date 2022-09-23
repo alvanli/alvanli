@@ -1,6 +1,7 @@
 ## Hello there! Welcome to my Github... 
 
 Experience:
+- Chatbots at Nuance + Microsoft
 - Data Sci at Clearco
 - Perception Core Manager at WATonomous
 - Transformers Reading Group Lead at UW Data Science Club
