@@ -7,6 +7,9 @@ Experience:
 - Co-Prez at UW Data Science Club (I still do transformers reading groups!)
 - ML Dev at Kelvin Zero 
 
+Contact Me!
+- Email: mail.alvinli@gmail.com
+
 
 I used to list all of my projects here but most of them are outdated/ no longer reflects my coding ability.
 <!-- Here's an overview of some of the projects I have done!
