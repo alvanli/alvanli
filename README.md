@@ -1,11 +1,11 @@
 ## Hello there! Welcome to my Github... 
 
 Experience:
+- Data Sci at Wealthsimple
 - Chatbots at Nuance + Microsoft
 - Data Sci at Clearco
 - Perception Core Manager at WATonomous
 - Co-Prez at UW Data Science Club (I still do transformers reading groups!)
-- ML Dev at Kelvin Zero 
 
 Contact Me!
 - Email: mail.alvinli@gmail.com
